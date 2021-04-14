@@ -1,0 +1,75 @@
+{
+  "decks": [
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    },
+    {
+      "name": "test1",
+      "description": "Just a test card.",
+      "id": 3
+    },
+    {
+      "name": "sdf",
+      "description": "sdfdsf",
+      "id": 4
+    }
+  ],
+  "cards": [
+    {
+      "front": "343434 follow Route?\n<Route>\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path ghjhgjmatches all URL's",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "W3434hat does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "front": "ewrewr",
+      "back": "ewrewrewr",
+      "deckId": null,
+      "id": 6
+    },
+    {
+      "front": "555555",
+      "back": "ghjhgj",
+      "deckId": 2,
+      "id": 7
+    },
+    {
+      "front": "dfgdf",
+      "back": "gdfgdfg",
+      "deckId": 2,
+      "id": 8
+    },
+    {
+      "front": "1213",
+      "back": "121212",
+      "deckId": 2,
+      "id": 9
+    },
+    {
+      "front": "9999",
+      "back": "999999",
+      "deckId": 2,
+      "id": 10
+    },
+    {
+      "front": "4444",
+      "back": "444444",
+      "deckId": 2,
+      "id": 11
+    },
+    {
+      "front": "123456789",
+      "back": "2sdfdsf",
+      "deckId": 2,
+      "id": 12
+    }
+  ]
+}
